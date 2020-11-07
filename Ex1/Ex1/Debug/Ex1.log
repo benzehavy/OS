@@ -1,0 +1,4 @@
+﻿  Son.c
+C:\Users\Ben\source\repos\Ex1\Ex1\Son.c(19,43): error C2065: 'forest': undeclared identifier
+C:\Users\Ben\source\repos\Ex1\Ex1\Son.c(19,43): warning C4047: 'function': 'char *' differs in levels of indirection from 'int'
+C:\Users\Ben\source\repos\Ex1\Ex1\Son.c(19,37): warning C4024: 'CountFiresInForest': different types for formal and actual parameter 1
